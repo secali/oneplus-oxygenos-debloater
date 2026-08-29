@@ -1,94 +1,25 @@
-## Paquetes que serán deshabilitados por ADB:
+<div align="center">
 
-com.oplus.aiunit
+# 🚀 OnePlus OxygenOS 14 Debloater
 
-com.coloros.smartsidebar
+**ADB package debloater script targeted for OnePlus devices running OxygenOS 14 (Nord 3 & others).**
 
-com.google.android.apps.healthdata
+[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20OxygenOS-red?logo=android&logoColor=white)](https://developer.android.com/)
+[![Tool](https://img.shields.io/badge/Tool-ADB%20CLI-blue?logo=gnubash&logoColor=white)](https://developer.android.com/tools/adb)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-com.oplus.pantanal.ums
+</div>
 
-com.google.android.marvin.talkback
+---
 
-com.android.hotwordenrollment.okgoogle
+## 📖 Features
 
-com.oplus.portrait
+- Disables aggressive telemetry services (`com.oplus.aiunit`, `com.oplus.pantanal.ums`, etc.).
+- Keeps essential system features intact.
+- Reversible at any time without root access.
 
-com.oplus.locationproxy
+---
 
-com.android.bips
+## 📄 License
 
-com.android.email.partnerprovider
-
-com.google.android.partnersetup
-
-com.android.bookmarkprovider
-
-com.oplus.melody
-
-com.oplus.viewtalk
-
-com.google.android.onetimeinitializer
-
-com.microsoft.appmanager
-
-com.heytap.browser
-
-com.google.android.projection.gearhead
-
-com.android.apps.tag
-
-com.coloros.assistantscreen
-
-com.oplus.metis
-
-com.coloros.colordirectservice
-
-com.oplus.synergy
-
-com.oplus.interconnectcollectkit
-
-com.google.ambient.streaming
-
-com.oppo.quicksearchbox
-
-com.coloros.operationManual
-
-com.android.chrome
-
-com.coloros.childrenspace
-
-com.android.hotwordenrollment.xgoogle
-
-com.oplus.games
-
-com.google.android.printservice.recommendation
-
-com.oplus.statistics.rom
-
-com.oplus.cosa
-
-com.oplus.crashbox
-
-com.oplus.lfeh
-
-com.oplus.logkit
-
-com.wapi.wapicertmanager
-
-com.heytap.mcs
-
-com.mediatek.engineermode
-
-com.google.android.feedback
-
-com.google.ar.lens
-
-com.android.bluetoothmidiservice
-
-com.android.egg
-
-com.android.providers.partnerbookmarks
-
-com.android.traceur
-
+MIT License © [Sergio Cañete (secali)](https://github.com/secali)
